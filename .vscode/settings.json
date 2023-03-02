@@ -8,4 +8,9 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#29310F",
+    "titleBar.activeBackground": "#394415",
+    "titleBar.activeForeground": "#F9FBF1"
+  },
 }
